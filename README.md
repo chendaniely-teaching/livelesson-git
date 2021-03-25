@@ -42,3 +42,5 @@
 - `git swich -c <NAME>`: create and move to the branch <NAME> in 1 command
     - `git checkout -b <NAME>`: also create and move to branch <NAME> in 1 command
 
+- `git merge <BRANCH>`: merge <BRANCH> into your current branch
+
